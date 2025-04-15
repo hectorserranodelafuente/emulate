@@ -1,0 +1,11 @@
+{
+  "name": "emulate",
+  "version": "1.0.0",
+  "description": "a minimalist library for test an express / Nodejs / API",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hectorserranodelafuente",
+  "license": "MIT"
+}
