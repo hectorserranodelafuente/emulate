@@ -1,4 +1,4 @@
-const { Socket } = require('./socket.js')
+const { Socket } = require('../main/socket.js')
 
 
 class Accumulator{

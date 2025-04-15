@@ -1,5 +1,5 @@
 
-const {Accumulator} = require('./accumulator.js')
+const {Accumulator} = require('../main/accumulator.js')
 
 class Case extends Accumulator{
        
