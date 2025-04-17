@@ -2,7 +2,7 @@
 a minimalist library for test an express / Nodejs / API 
 
 
-# INSTALL NECCESARY DEPENDENCIES ON MAIN PROJECT
+## INSTALL NECCESARY DEPENDENCIES ON MAIN PROJECT
 
 npm install --save ws
 
@@ -16,7 +16,7 @@ npm install --save path
 }
 
 
-# PACKAGE.JSON CONFIGURATION ON MAIN PROJECT
+## PACKAGE.JSON CONFIGURATION ON MAIN PROJECT
 
 copy and paste wsServer <FOLDER> to FOLDER on main project
 
@@ -31,10 +31,13 @@ copy and paste wsServer <FOLDER> to FOLDER on main project
 }
 
 
-# FILL CASES
-  if you download stepByStep you have many expamples to see
+## FILL CASES
+  
+  Download stepByStep you have many expamples to see examples
 
-# FILL WSSERVER
+## FILL WSSERVER
 
-# npm run test
+ Download stepByStep you have many expamples to see examples   
+
+## npm run test
 
