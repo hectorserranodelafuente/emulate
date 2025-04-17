@@ -33,11 +33,11 @@ copy and paste wsServer <FOLDER> to FOLDER on main project
 
 ## FILL CASES
   
-  Download stepByStep you have many expamples to see examples
+  Download stepByStep, there are many examples
 
 ## FILL WSSERVER
 
- Download stepByStep you have many expamples to see examples   
+ Download stepByStep, there are many examples
 
 ## npm run test
 
